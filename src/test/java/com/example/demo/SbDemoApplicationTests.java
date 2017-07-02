@@ -11,7 +11,7 @@ public class SbDemoApplicationTests {
 
 	@Test
 	public void contextLoads() {
-		System.out.println("hello ");
+		System.out.println("hello 1");
 	}
 
 }
